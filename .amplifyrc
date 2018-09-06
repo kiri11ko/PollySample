@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "wift-20180904175542-authRole",
+            "UnauthRoleArn": "arn:aws:iam::982028223063:role/wift-20180904175542-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::982028223063:role/wift-20180904175542-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "wift-20180904175542-deployment",
+            "UnauthRoleName": "wift-20180904175542-unauthRole",
+            "StackName": "wift-20180904175542",
+            "StackId": "arn:aws:cloudformation:us-east-1:982028223063:stack/wift-20180904175542/98d8c4f0-b052-11e8-a9e1-50d5cd1ea836"
+        }
+    }
+}
